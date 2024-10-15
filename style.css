@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(255, 239, 196);
+    margin: 10%;
+}
+
+#title {
+    text-align: center;
+    font-size: 7vh;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+}
+span{
+    color:crimson;
+}
+#caption {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+h2.title-RNT{
+    text-align: center;
+}
+
+div#tribute-data {
+    font-size: 17px; /*Optional*/
+    background-color: rgba(79, 20, 162, 0.25);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+footer{
+    /* clear:both; */
+    /* float: right; */
+    text-align: center;
+}
